@@ -5,6 +5,13 @@ This module is designed for use on the Pycom Wipy and Lopy4 and gives functional
 Animation functions have been added to the main.py file to make it easy to create fun patterns.
 Some of these patterns were translated from the NeoPixel StrandTest, and some were made up!
 
+The files used are:
+main.py
+ws2812.py
+
+boot.py is blank
+animations.py is for reference only and contains all the animations used in main.py
+
 The basic configuration in the code is:
 
 # Set the number of LEDs
