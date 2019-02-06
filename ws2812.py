@@ -141,3 +141,5 @@ class WS2812:
         Set brighness of all leds
         """
         self.brightness = brightness
+
+        
