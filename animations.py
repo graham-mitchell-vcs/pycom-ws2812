@@ -119,3 +119,5 @@ def solid(c, wait):
         data[i] = c
     chain.show( data )
     utime.sleep_ms(wait)
+
+    
